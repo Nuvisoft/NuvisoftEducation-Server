@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.*;
 @RestController
 
 @RequestMapping("/post")
-public class PostController {
+public class PostController_asignatura {
     @Autowired
     private PostManagementService service;
 
