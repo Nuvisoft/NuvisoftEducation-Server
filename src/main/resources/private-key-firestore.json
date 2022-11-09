@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nuvisofteducation",
+  "private_key_id": "74d54cbc101df7cdf2838f4698aa4a422fb340a9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCn83grDj3SqIDm\nkNN0SXUky7Y0Xy2nHzCcERRqlmtKqtsHwYFZVB+pMbmfZf7hWsDFpxU4g4WLcNlQ\ngbuXSsUsUYHcDFjJ3uqCr5kcOZOe/EkXkF74TmktSkeJcxn1GYRqz6kYrswFl8Sl\n+QUGP748YmEoo7PDevf473n8fjKaUhVVfTWeZrhAHkm0zuUrwnhMU5ScZ3JyB9wL\nb3qZbFEvOqK85WfeJAzl3ovJl+Z1THKMwILiDEV8XGB53ne+DG9Pn2I54T20nwPl\nQrIXQljJSVtAIKxWiQXaIxcMgv4Y2OySsqzmltD3GPf7b+4e3FWH4KGHIQmqU7UZ\npBdsNnxrAgMBAAECggEADZQTEpQProDeDwYFeoDX3jY0EG7jf3/3i56b4nQvz3UZ\nyTo9TW4OMz0obzktTqXqMPCtuAh2GwxwHWCnvHcYktkyIQrEgOmrVw6AV/ZVt4RZ\nGnUbIIMiYL2BJB0wq465FHOejbbQGuGmze5gmB0+MZ6YkVMO3Q6Ljs45tA6146D+\nnK2PWjd3jy/HUZ+W5kPI18LsLx9hpbC1iJYhbgRP2ZNpLIg0xcdIm4sZxub1oTsD\ns3DO8UkskThKcYOBwpB5uSfuPyK5lX91a9q8khTdIoDdbz1CthwHwrjPNyh3E0ZF\nijxgS0AP0BRofxsKcxq0CvfneVJFGyWEhJB1qSPf3QKBgQDihlLus+iDS6e6M3FT\nX89NFSJnqVrVHxt1U7V5mJY2JOCn++cC9RpKCBVAw+fKOSv0+neSzF8z6062OFVP\n+ohCFJAZbd/ksY75L6yGDAerSTcArsnK3SA9RffFcUXdMl+aUfBWQwinN3H57Yq7\n9UXT/j9UC4j+oOfaza+kYe0H1QKBgQC9zgV7tibc9wHtMaY1+uEqg0a6GeROa9Aa\nBs+sM8wu509i5pz5rLajyJ0wi48VxotFblBDZnpqtsVBnSsrGBTRz7HxgvpIc/+L\nxOtOxHM4fIVATZ2d+9NTWmFjDMWJRkRT/fFZGMzNGMJ68wewyl/tLSgbGljZkNHW\nxAUn2znTPwKBgD0LT7wN9YG0WJ3gERETx6yRHnVq+RRnzqF+jnAXQ5uRsozyYF22\nqX/7z6ZlZMhlQchB2wlPU/SM2+hVJABqll+gZPjFWEmr48iZJVf2U/a/wzfG4pBt\nqKt6eHvXu6kRUxwmKqtEY0eUtH1Sm0ltnoSzhmNivGdJ+1FGjqew0AyFAoGBAIcV\nwNtKSaCMAAgDhQr4EhcCtWywDsgtfT94x4cEmnZrVBnMjb44yQgKOK2bNevGkcqJ\nd4BwyAF5MSzAoj+adP7adgewM1crj523Oc2mjWaPYPriAqK03rN9KMCpD1Hi+7BX\nlNTXjLMPwyJkI34Umm8f62JWvxOhOWdDvXOfWClbAoGAQLJ8mZgQnZik5kEOFjta\nNKg/D0MQ6K6/r128b9kI/FKQXJE//XcdhSZMScLfiqTQAyI1DQOwq0xK+YrLCBjk\ns9C1wfWZicFh6e18bs/8MNBQ4rJA9aasOtw+ZRHnV3nKypkjs+AaLFTf4vqKozWo\nSi7vwSUSE5lg+SdZ6KXpdPc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-pf4lo@nuvisofteducation.iam.gserviceaccount.com",
+  "client_id": "101506656696470253543",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-pf4lo%40nuvisofteducation.iam.gserviceaccount.com"
+}
